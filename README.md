@@ -6,7 +6,7 @@ To write and execute an Assembly Language Program for sorting data in Ascending 
 ## Apparatus Required
 - Personal Computer  
 - Keil µVision software  
----
+--- 
 
 ## Algorithm(ASCENDING ORDER)
 1. Initialize the register **R7** with count (number of elements).  
